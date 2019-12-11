@@ -1,3 +1,4 @@
 Django>=3.0.0,<3.1.0
 djangorestframework>=3.10.3,<3.11.0
 pip>=19.3.1<19.4.0 
+flake8>=3.7.9<3.8.0
